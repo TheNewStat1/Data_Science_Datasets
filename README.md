@@ -1,4 +1,4 @@
-### What's up guys! This is our official data repository for The New Statistician YouTube Channel. 
+### What's up guys! This is our official data repository for The New Statistician 
 
 https://www.youtube.com/channel/UCcPnyv1HXYEGxFsP6Z4P7yQ 
 
